@@ -1,1 +1,2 @@
-This project consists on a implemetation of the checkers board game on Java with a simple AI to play against.
+This project consists on a implemetation of the checkers board game on Java with a simple AI to play against. 
+The AI has different modes where each one refers to a different play-style where it prioritizes more one kind of strategy than other.
