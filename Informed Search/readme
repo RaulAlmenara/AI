@@ -1,0 +1,1 @@
+This project consists on a simple Java programa which finds the best path to go from a point on a numerical map to another point, being the numbers of each box the time to cross from one to other and -1 meaning it's impossible to cross.
